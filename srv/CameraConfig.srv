@@ -1,0 +1,6 @@
+string x
+string y
+---
+string current_val
+string[] choices
+string output_msg

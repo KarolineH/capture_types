@@ -1,0 +1,7 @@
+bool download
+float64 duration
+---
+string output_path
+string output_msg
+---
+string status
