@@ -1,0 +1,6 @@
+int32[] intensity
+int32[] colour_temp
+---
+int32[] intensity
+int32[] colour_temp
+string out_msg
