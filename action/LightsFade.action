@@ -1,0 +1,9 @@
+int32[] intensity
+int32[] colour_temp
+float64 duration
+---
+string out_msg
+---
+int32[] intensity
+int32[] colour_temp
+string status
