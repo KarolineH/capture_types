@@ -1,0 +1,10 @@
+string aperture
+string iso
+string shutterspeed
+bool cont_af
+---
+string aperture
+string iso
+string shutterspeed
+bool cont_af
+string output_msg
