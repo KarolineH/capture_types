@@ -13,6 +13,7 @@ find_package(rosidl_default_generators REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   "srv/CameraConfig.srv"
   "srv/LightParams.srv"
+  "srv/CaptureParams.srv"
   "action/Capture.action"
   "action/LightsFade.action"
   DEPENDENCIES geometry_msgs # Add packages that above messages depend on, in this case geometry_msgs for Sphere.msg
